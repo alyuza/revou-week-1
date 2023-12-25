@@ -1,5 +1,6 @@
 <img align="center" src="./image/alyuza-header.png" alt="background header" />
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyuzasp/)](https://www.linkedin.com/in/alyuzasp/) [![Instagram Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.instagram.com/alyuzasp/) [![Gmail Badge](https://img.shields.io/badge/-alyuza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyuza.dev@gmail.com)](mailto:alyuza.dev@gmail.com)
 
 # Week-1 RevoU Assignment 👨‍💻
