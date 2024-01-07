@@ -26,7 +26,7 @@ Weekly assignment, date : 12 June - 16 June 2023
 - Image
 
 ## Deployment Link
-Website link : [revou-week-1.vercel.app/](https://revou-week-1.vercel.app/)
+Website link : [https://www.alyuza.site/](https://www.alyuza.site/)
 
 ## Screenshoot
 
